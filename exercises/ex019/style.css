@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(223, 227, 230);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+   color: #A6562E;
+}
+
+#main {
+    text-align: center;
+    color: #F27E44;
+    background-color: aqua;
+}
+
+h2{
+    color: #CF6B3A;
+}
+
+.basico{
+  color: #2ea66e;
+}
+
+.intermediario{
+    color: rgb(31, 19, 134);
+}
+
+.avancado{
+ color: #8d0d87;
+}

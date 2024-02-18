@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-image: linear-gradient( to bottom,#23db5d7a,#2d7017f8 );
+    height: 200px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+header div{
+    align-items: flex-start;
+    width:fit-content;
+    display: inline-block;
+    margin: 10px;
+    
+}
+
+header div a {
+    padding-right: 20px;
+    
+}
+.linktopo{
+    color: white;
+}
+.linktop{
+    color: white;
+    
+}
+body{
+    background-color: rgb(153, 211, 158);
+}
+
+main{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: white;
+    text-align: center;
+    padding: auto;
+    border-radius: 0%;
+  
+
+}
+.h1perso{
+    background-color: rgba(44, 129, 44, 0.644);
+    background-image:  linear-gradient( to right, #42d53f4d, #B6FFA8  );
+}
+.textolink{
+    color: rgb(21, 65, 21);
+}

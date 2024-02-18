@@ -1,0 +1,25 @@
+    @import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+    @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+    @font-face {
+        font-family: ;
+        src: url( 'love story ttf.ttf') format('truetype');
+     }
+
+       body{
+        
+            font-size: 16px;
+            color: black;
+            background-color: rgba(7, 34, 92, 0.281);
+            font-family: Arial, Helvetica, sans-serif;
+            }
+          
+
+            h1{ font-family: 'Times New Roman', Times, serif;
+               
+            }
+
+            p{
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
